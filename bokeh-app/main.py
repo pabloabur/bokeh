@@ -53,4 +53,4 @@ layout = grid([
     ])
 
 curdoc().add_root(layout)
-
+curdoc().title = "Weather"
